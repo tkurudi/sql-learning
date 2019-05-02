@@ -16,3 +16,5 @@ distinct key word will return a unique value on the table
 
 where key word requires single quotes when comparing data
 eg Select * from emp where job = 'MANAGER'
+
+AND key word lets you concat statements together
