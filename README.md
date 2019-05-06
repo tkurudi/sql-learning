@@ -18,3 +18,7 @@ where key word requires single quotes when comparing data
 eg Select * from emp where job = 'MANAGER'
 
 AND key word lets you concat statements together
+
+https://apex.oracle.com/pls/apex/f?p=4500:1003:101201220576256::NO:::
+
+all operators same as JS
