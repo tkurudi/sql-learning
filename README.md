@@ -23,3 +23,6 @@ also after using the first WHERE state you MUST ust AND after to add more cases 
 
 SQL or condition
 The SQL AND condition and OR condition can be combined to test for multiple conditions in a SELECT, INSERT, UPDATE, or DELETE statement. When combining these conditions, it is important to use parentheses so that the database knows what order to evaluate each condition.
+https://apex.oracle.com/pls/apex/f?p=4500:1003:101201220576256::NO:::
+
+all operators same as JS
