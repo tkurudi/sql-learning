@@ -18,3 +18,8 @@ where key word requires single quotes when comparing data
 eg Select * from emp where job = 'MANAGER'
 
 AND key word lets you concat statements together
+
+also after using the first WHERE state you MUST ust AND after to add more cases for to the first statement. 
+
+SQL or condition
+The SQL AND condition and OR condition can be combined to test for multiple conditions in a SELECT, INSERT, UPDATE, or DELETE statement. When combining these conditions, it is important to use parentheses so that the database knows what order to evaluate each condition.
