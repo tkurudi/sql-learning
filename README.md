@@ -60,3 +60,7 @@ Quick Example:
    -- Concatenate strings 'New ' and 'York'
    SELECT 'New ' || 'York' FROM dual;
    -- Result: New York
+
+   -- TEST
+   SELECT ENAME || ' MAKES $' || SAL || ' PER MONTH' AS "TEST"
+ FROM EMP;
