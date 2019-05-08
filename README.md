@@ -40,3 +40,12 @@ WHERE column_name IN (value1, value2, ...);
 
 () in sql
 This is basic order of operations. The parentheses mean that everything is tested before anything else is tested. The value returned after evaluating the items in the parentheses will then be used to evaluate the rest. Since AND takes precedence over OR, the parentheses make SQL evaluate the ORs first.
+
+LIKE
+
+The LIKE operator is used in a WHERE clause to search for a specified pattern in a column.
+
+There are two wildcards often used in conjunction with the LIKE operator:
+
+% - The percent sign represents zero, one, or multiple characters
+_ - The underscore represents a single character
