@@ -49,3 +49,14 @@ There are two wildcards often used in conjunction with the LIKE operator:
 
 % - The percent sign represents zero, one, or multiple characters
 _ - The underscore represents a single character
+
+
+|| concat
+
+|| operator concatenates one or more strings into a single string in Oracle.
+
+Quick Example:
+
+   -- Concatenate strings 'New ' and 'York'
+   SELECT 'New ' || 'York' FROM dual;
+   -- Result: New York
