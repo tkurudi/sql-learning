@@ -64,3 +64,9 @@ Quick Example:
    -- TEST
    SELECT ENAME || ' MAKES $' || SAL || ' PER MONTH' AS "TEST"
  FROM EMP;
+
+
+ The ORDER BY keyword is used to sort the result-set in ascending or descending order. The ORDER BY keyword sorts the records in ascending order by default. To sort the records in descending order, use the DESC keyword.
+
+ The DUAL is special one row, one column table present by default in all Oracle databases. The owner of DUAL is SYS (SYS owns the data dictionary, therefore DUAL is part of the data dictionary.) but DUAL can be accessed by every user. The table has a single VARCHAR2(1) column called DUMMY that has a value of 'X'. MySQL allows DUAL to be specified as a table in queries that do not need data from any tables. In SQL Server DUAL table does not exist, but you could create one.
+The DUAL table was created by Charles Weiss of Oracle corporation to provide a table for joining in internal views.
