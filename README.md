@@ -74,3 +74,7 @@ The DUAL table was created by Charles Weiss of Oracle corporation to provide a t
 TEST 
 SELECT CONCAT(CONCAT(LOWER(ENAME), UPPER(' IS THE NAME')), CONCAT('AND THEIR JOB IS : ', JOB))
 FROM EMP
+
+SQL date functions
+
+http://www.oracletutorial.com/oracle-date-functions/
