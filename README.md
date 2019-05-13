@@ -78,3 +78,5 @@ FROM EMP
 SQL date functions
 
 http://www.oracletutorial.com/oracle-date-functions/
+
+http://www.oracletutorial.com/oracle-basics/
