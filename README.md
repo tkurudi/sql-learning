@@ -80,3 +80,5 @@ SQL date functions
 http://www.oracletutorial.com/oracle-date-functions/
 
 http://www.oracletutorial.com/oracle-basics/
+
+http://www.oracletutorial.com/oracle-date-functions/oracle-to_date/
