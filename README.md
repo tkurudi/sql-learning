@@ -82,3 +82,5 @@ http://www.oracletutorial.com/oracle-date-functions/
 http://www.oracletutorial.com/oracle-basics/
 
 http://www.oracletutorial.com/oracle-date-functions/oracle-to_date/
+
+https://www.folkstalk.com/2012/01/oracle-single-row-functions-examples.html
