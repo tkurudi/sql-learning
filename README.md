@@ -86,3 +86,7 @@ http://www.oracletutorial.com/oracle-date-functions/oracle-to_date/
 http://www.sqlservertutorial.net/sql-server-string-functions/sql-server-left-function/
 
 https://www.folkstalk.com/2012/01/oracle-single-row-functions-examples.html
+
+group by
+
+https://www.w3schools.com/sql/sql_groupby.asp
