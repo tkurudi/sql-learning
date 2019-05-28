@@ -90,3 +90,6 @@ https://www.folkstalk.com/2012/01/oracle-single-row-functions-examples.html
 group by
 
 https://www.w3schools.com/sql/sql_groupby.asp
+
+having
+https://www.w3schools.com/sql/sql_having.asp
