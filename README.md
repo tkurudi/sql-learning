@@ -93,3 +93,5 @@ https://www.w3schools.com/sql/sql_groupby.asp
 
 having
 https://www.w3schools.com/sql/sql_having.asp
+https://www.dofactory.com/sql/having
+
