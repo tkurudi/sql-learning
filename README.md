@@ -95,3 +95,6 @@ having
 https://www.w3schools.com/sql/sql_having.asp
 https://www.dofactory.com/sql/having
 
+sub queries 
+https://www.geeksforgeeks.org/sql-sub-queries/
+
